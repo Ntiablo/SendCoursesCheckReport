@@ -2,4 +2,4 @@ GR-g.piperidis@goldair-handling.gr,trainingadmin@goldair-handling.gr
 CY-v.zaloumis@goldair-handling.gr
 SR-beg.dmpax@goldair-handling.com
 IN-nag.am@goldair-handling.com
-BG-g.piperidis@goldair-handling.gr
+BG-sof.planning.mgr@goldair-handling.bg,training.bg@goldair-handling.bg
